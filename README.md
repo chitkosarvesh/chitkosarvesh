@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @chitkosarvesh
-- 👀 I’m interested in Python, golang, Angular, Ionic, VoIP, Rust, React.js, FreeSWITCH, Kamailio
-- 🌱 I’m currently learning Deep Learning, Machine Learning and Rust
-- 💞️ I’m looking to collaborate on WebRTC based solutions
-- 📫 How to reach me Skype: @chitkosarvesh
-
+404 Bio not found. I'm just a software developer trying to debug my way through life's quirks while keeping my code clean and my coffee strong!
+☕💻 #DevHumor
+Skype: @chitkosarvesh
+Email: chitkosarvesh@gmail.com
